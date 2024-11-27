@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Oct 2024 00:46:05 at https://unikon-html.vercel.app/unikon-html/index-4.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://unikon-html.vercel.app/unikon-html/index-4.html -O1 "C:\Users\rauna\Desktop\Unioun Services\unioun website\Lastest\Unioun latest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:49:28	Error: 	"Not Found" (404) at link https://unikon-html.vercel.app/unikon-html/path_to_file (from https://unikon-html.vercel.app/unikon-html/service-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 23 seconds : 442 links scanned, 440 files written (52178362 bytes overall) [48039405 bytes received at 236647 bytes/sec], 6201745 bytes transferred using HTTP compression in 75 files, ratio 29%
+(1 errors, 0 warnings, 0 messages)
